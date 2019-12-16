@@ -1,0 +1,11 @@
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\bin\Debug\netcoreapp2.1\segitiga-siku-kiri.deps.json
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\bin\Debug\netcoreapp2.1\segitiga-siku-kiri.runtimeconfig.json
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\bin\Debug\netcoreapp2.1\segitiga-siku-kiri.runtimeconfig.dev.json
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\bin\Debug\netcoreapp2.1\segitiga-siku-kiri.dll
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\bin\Debug\netcoreapp2.1\segitiga-siku-kiri.pdb
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\obj\Debug\netcoreapp2.1\segitiga-siku-kiri.csprojAssemblyReference.cache
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\obj\Debug\netcoreapp2.1\segitiga-siku-kiri.csproj.CoreCompileInputs.cache
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\obj\Debug\netcoreapp2.1\segitiga-siku-kiri.AssemblyInfoInputs.cache
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\obj\Debug\netcoreapp2.1\segitiga-siku-kiri.AssemblyInfo.cs
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\obj\Debug\netcoreapp2.1\segitiga-siku-kiri.dll
+D:\simpel tes console\segitiga-siku-kiri\segitiga-siku-kiri\obj\Debug\netcoreapp2.1\segitiga-siku-kiri.pdb
